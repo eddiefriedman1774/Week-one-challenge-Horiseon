@@ -16,3 +16,5 @@ simply meant to be viewed at
 ## credits 
 My friend Ethan Hinds helped me work with the formatting of the code.
 
+##link to deployed website 
+https://eddiefriedman1774.github.io/Week-one-challenge-Horiseon/Develop/
